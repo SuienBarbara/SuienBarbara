@@ -11,5 +11,5 @@ Bem-vindo ao meu cantinho no GitHub!🌟
 
 # Meus contatos! 🚀
 
-- 💼 Meu perfil no [LinkedIn](www.linkedin.com/in/suien-barbara).
+- 💼 Meu perfil no (www.linkedin.com/in/suien-barbara).
 - ✉️ Meu email (suienbarbara@gmail.com).
