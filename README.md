@@ -1,4 +1,4 @@
-# Olá, eu sou a Suien Bárbara ⚡
+# Olá, eu sou a Suien Bárbara🌷
 
 Bem-vinda(o) ao meu cantinho no GitHub! 🌟
 
