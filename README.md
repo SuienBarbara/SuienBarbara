@@ -2,11 +2,11 @@
 
 Bem-vinda(o) ao meu cantinho no GitHub! 🌟
 
-🎓 Acadêmica de Sistemas de Informação e Técnica em Informática.  
-👩‍💻 Atualmente estagiando em Engenharia de Software na **Bemol Digital**.  
-💡 Apaixonada por tecnologia, especialmente no que envolve desenvolvimento web, automações e design de interfaces.  
+🎓 Acadêmica de Sistemas de Informação na UFAM e Técnica em Informática pelo IFAM.  
+👩‍💻 Atuando como estagiária em Engenharia de Software na **Bemol Digital**.  
+💡 Apaixonada por tecnologia.  
 🌱 Explorando e construindo soluções com foco em experiências eficientes e intuitivas.  
-☕ Amante de café, gatos e dos livros do Harry Potter.
+☕ Amante de café, gatos e dos livros de Harry Potter.
 
 ---
 
