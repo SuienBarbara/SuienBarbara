@@ -3,8 +3,11 @@
 Bem-vinda(o) ao meu cantinho no GitHub! 🌟
 
 🎓 Acadêmica de Sistemas de Informação na UFAM e Técnica em Informática pelo IFAM.  
+
 👩‍💻 Atuando como estagiária em Engenharia de Software na **Bemol Digital**.  
+
 💡 Apaixonada por tecnologia, com interesse em Front End e Desenvolvimento Web.
+
 ☕ Amante de café, gatos e dos livros de Harry Potter.
 
 ---
