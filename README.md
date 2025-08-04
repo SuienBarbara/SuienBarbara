@@ -23,7 +23,7 @@ Bem-vinda(o) ao meu cantinho no GitHub! 🌟
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/45487714?s=200&v=4" title="n8n" alt="n8n" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" title="Grafana" alt="Grafana" width="40" height="40"/>
 
 </div>
 
